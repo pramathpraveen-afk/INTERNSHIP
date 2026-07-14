@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>Technologies</th>
+            <th>Year </th>
+            <th>Created By</th>
+        </tr>
+        <tr>
+            <td>HTML</td>
+            <td>1991</td>
+            <td>h</td>
+        </tr>
+
+         <tr>
+            <td>CSS</td>
+            <td>1996</td>
+            <td>i</td>
+        </tr>
+
+         <tr>
+            <td>JS</td>
+            <td>1995</td>
+            <td>j</td>
+    </table>
+</body>
+</html>
